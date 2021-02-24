@@ -1,4 +1,4 @@
-# Bases-AWS
+# Bases - AWS
 La computación en la nube (o cloud computing, en inglés) es una tecnología que permite acceder remotamente, de cualquier lugar del mundo y en cualquier momento, a softwares, almacenamiento de archivos y procesamiento de datos a través de Internet, sin la necesidad de conectarse a un ordenador personal o servidor local.
 
 En otras palabras, la computación en la nube utiliza la conectividad y gran escala de Internet para hospedar los más variados recursos, programas e información, y permite que el usuario ingrese a ellos través de cualquier ordenador, tablet o celular.
