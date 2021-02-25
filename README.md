@@ -116,3 +116,28 @@ Desktop & App Streaming: Como WorkSpaces que sirve si en algún momento necesita
 Internet of Things: Puede proveer de hardware y te permite crear servicios para que fácilmente puedas administrarlos, como conectarlos con datos o aplicaciones web.
 
 Game Development: (Motor de juegos) Puedes generar un juego con el software que te proporcionan. Crear escenas, interacción.
+
+### AWS Elastic Beanstalk
+
+AWS Elastic Beanstalk es un servicio fácil de utilizar para implementar y escalar servicios y aplicaciones web desarrollados con Java, .NET, PHP, Node.js, Python, Ruby, Go y Docker en servidores familiares como Apache, Nginx, Passenger e IIS.
+
+Solo tiene que cargar el código y Elastic Beanstalk administrará de manera automática la implementación, desde el aprovisionamiento de la capacidad, el equilibrio de carga y el escalado automático hasta la monitorización del estado de la aplicación. Al mismo tiempo, tendrá el control absoluto de los recursos de AWS que alimentan su aplicación y podrá acceder a los recursos subyacentes cuando quiera.
+
+No se cargan tarifas adicionales por Elastic Beanstalk; solo paga por los recursos de AWS que necesite para almacenar y ejecutar las aplicaciones.
+
+![https://aws.amazon.com/es/elasticbeanstalk/](https://aws.amazon.com/es/elasticbeanstalk/)
+
+### EC2
+
+EC2 son un conjunto de maquinas virtuales en línea que puedes utilizar para desarrollo, calidad o producción. Estas son algunas de sus características:
+
+1. Instancias: Máquinas virtuales con diversas opciones de Sistema Operativo, vCPU, RAM, Disco Duro, etc.
+2. Seguridad: Generación de llaves únicas para poder conectarse a tu máquina Linux o Windows de forma segura.
+3. Espacio: Diversas opciones de espacio en disco duro, virtualmente infinito.
+4. Redundancia: Puedes tener diversas copas de la misma máquina en diversas regiones geográficas.
+5. Firewall:Puedes controlar de manera muy fina desde donde te puedes conectar a la máquina y por qué puertos.
+6. Direcciones IP estáticas: Puedes optar por comprar una IP pública estática para que siempre puedas poner la última versión o la última máquina en esa IP.
+7. Respaldos: Puedes respaldar toda la máquina (Ambiente, Sistema operativo, todo) cada que quieras.
+8. Escalable: En caso necesario, puedes incrementar o decrementar los recursos de la máquina: más vCPUs, más RAM, etc.
+9. Migración de snapshot: Puedes copiar un snapshot a otras regiones, en caso de que cualquier cosa suceda en la que estas.
+
