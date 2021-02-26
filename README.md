@@ -125,7 +125,7 @@ Solo tiene que cargar el código y Elastic Beanstalk administrará de manera aut
 
 No se cargan tarifas adicionales por Elastic Beanstalk; solo paga por los recursos de AWS que necesite para almacenar y ejecutar las aplicaciones.
 
-![https://aws.amazon.com/es/elasticbeanstalk/](https://aws.amazon.com/es/elasticbeanstalk/)
+[https://aws.amazon.com/es/elasticbeanstalk/](https://aws.amazon.com/es/elasticbeanstalk/)
 
 ### EC2
 
